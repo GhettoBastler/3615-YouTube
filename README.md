@@ -85,11 +85,11 @@ When everything is set up, run 3615yt
 
 This project is not meant to be used as an actual way to watch YouTube videos. Therefore it lacks some basic features.
 
-In particular, there is also no way for the user to stop the download or recording processes: you have to do it by connecting through SSH and VLC manually. The same goes for powering the Pi down: you have to do it through SSH.
+In particular, there is no way for the user to stop the downloading or recording processes: you have to do it by connecting through SSH and killing VLC manually. The same goes for powering the Pi down: you have to do it through SSH.
 
 ## Additional ressources
 
-There are several things I had to learn for this project. These ressources proved to be particularly useful:
+These guides helped me greatly during the making of this project:
 
 - [Pila's article](https://pila.fr/wordpress/?p=361) on connecting a Minitel to a Raspberry Pi
 - [This guide](https://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-model-b-3-5mm-audiovideo-jack/) on how to use the Pi's composite output
