@@ -1,4 +1,8 @@
 # 3615-YouTube
+
+![IMG_20220824_145332_1](https://user-images.githubusercontent.com/100698182/186926004-fe1df0db-4177-4769-8e34-dd9ba33bfaf1.jpg)
+
+
 A Mintel interface to record YouTube videos on a VHS tape. Inspired by [this comic by Boulet](https://english.bouletcorp.com/2011/07/07/formicapunk/). 
 
 You can read the full write-up [here](https://ghettobastler.com/portfolio/3615yt).
@@ -69,6 +73,12 @@ device = /dev/lirc0
 ```
 sudo reboot
 ```
+
+## Level shifter
+
+![IMG_20220817_231013](https://user-images.githubusercontent.com/100698182/186925881-42a76b3f-8367-426b-bff0-adc12af79279.jpg)
+
+You need to use a logic level shifter to safely connect a Minitel to a Raspberry Pi. My circuit is based on [Pila's design](https://pila.fr/wordpress/?p=361). You can find the schematics [here](https://github.com/GhettoBastler/3615-YouTube/blob/main/pcb/Schematic.pdf)
 
 ## Usage
 
