@@ -5,7 +5,7 @@
 
 A Mintel interface to record YouTube videos on a VHS tape. Inspired by [this comic by Boulet](https://english.bouletcorp.com/2011/07/07/formicapunk/). 
 
-You can read the full write-up [here](https://ghettobastler.com/portfolio/3615yt).
+You can read the full write-up [here](https://ghettobastler.com/3615-youtube.html).
 
 ## Dependiencies
 - git
